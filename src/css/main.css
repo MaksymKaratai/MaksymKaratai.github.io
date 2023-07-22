@@ -1,7 +1,6 @@
 :root {
-    --mainColor: #374785;
-    --backCardColor: #F4976C;
-    --frontCardColor: #FBE8A6;
+    --backCardColor: #00a86b;
+    --frontCardColor: #00eee0;
 }
 
 * {
